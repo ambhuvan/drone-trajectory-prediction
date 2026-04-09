@@ -7,7 +7,7 @@
 ### **The Vision**
 As commercial drone delivery and urban air mobility scale, the sky is becoming increasingly complex. Traditional GPS-based navigation reacts to the present, leading to latency in collision avoidance. This project shifts the paradigm from *reactive* to *predictive*.
 
-This repository houses a **Deep Learning-based Trajectory Prediction Engine** that forecasts drone flight paths in real-time. By modeling historical telemetry, physical momentum, and spatial constraints, this system acts as a proactive safety layer for autonomous flight.
+This repository houses a **Deep Learning-based Trajectory Prediction Engine** that forecasts drone flight paths in real-time. By modeling historical telemetry, physical momentum, and spatial constraints, this system acts as a proactive safety layer for autonomous flight and also precenting unidentified drones from entering restricted airspace and preventing threats and safeguarding communities again drones.
 
 ---
 
